@@ -1,8 +1,6 @@
 # Hello, I'm Rameez
 <a href="https://www.linkedin.com/in/rameez-ahmed-a0802a190/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 Recent Computer Science graduate from King's College London with a profound interest in cybersecurity and a drive to solve real-world problems through technology
 
 ## Objective
