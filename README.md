@@ -50,6 +50,8 @@ I am actively pursuing a role in cybersecurity, with a particular interest in st
 </div>
 
 ## Projects
-<a href="https://github.com/Rameez-03/IP-PQC-KEM" target="_blank">Post-Quantum Cryptography</a>
-<a href="https://github.com/Rameez-03/Security-Audit?tab=readme-ov-file" target="_blank">Security Audit</a>
+
+- [Post-Quantum Cryptography](https://github.com/Rameez-03/IP-PQC-KEM)
+- [Security Audit](https://github.com/Rameez-03/Security-Audit?tab=readme-ov-file)
+
 
