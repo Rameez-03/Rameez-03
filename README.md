@@ -55,5 +55,6 @@ I am actively pursuing a role in cybersecurity, with a particular interest in st
 - [Security Audit](https://github.com/Rameez-03/Security-Audit?tab=readme-ov-file)
 - [Scanner](https://github.com/Rameez-03/Scanner)
 - [Sniffer](https://github.com/Rameez-03/Packet-Sniffer)
+- [CTF-Writeups](https://github.com/Rameez-03/CTF-Writeups)
 
 
