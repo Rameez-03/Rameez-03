@@ -5,7 +5,7 @@ Recent Computer Science graduate from King's College London with a profound inte
 
 ## Objective
 
-I am actively pursuing a role in cybersecurity, with a particular interest in starting my career as a Tier 1 SOC Analyst. I’m eager to contribute to threat detection, response, and mitigation efforts, while continuously learning and developing my expertise in defensive security operations.
+I am actively pursuing a role in cybersecurity, with a particular interest in starting my career as a Tier 1 SOC Analyst. I’m eager to contribute to threat detection, response, and mitigation efforts, while continuously learning and developing my expertise in defensive security operations
 
 ## Skills
 
