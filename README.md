@@ -49,7 +49,8 @@ I am actively pursuing a role in cybersecurity, with a particular interest in st
 - [Scanner](https://github.com/Rameez-03/Scanner)
 - [Sniffer](https://github.com/Rameez-03/Packet-Sniffer)
 - [CTF-Writeups](https://github.com/Rameez-03/CTF-Writeups)
-- [Secure Bank App](https://github.com/Rameez-03/SOC-Automation-Lab)
+- [SOC Automation Lab](https://github.com/Rameez-03/SOC-Automation-Lab)
+- [Secure Bank App](https://github.com/Rameez-03/Secure-Bank-App)
   
 
 
