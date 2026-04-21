@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&width=600&lines=RAMEEZ+AHMED;Cybersecurity+%7C+SOC+%7C+Blue-Team;Tier+1+SOC+Analyst+%E2%86%92+in+progress" alt="Typing" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:1F4E8C&height=140&section=header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2400&pause=900&color=4F8CFF&center=true&vCenter=true&width=800&lines=Rameez+Ahmed;SOC+Analyst+%7C+Blue+Team+Operations;Threat+Detection+%7C+Incident+Response;Security+Monitoring+%7C+Automation+Focused" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F4E8C,100:0B1F3A&height=2&section=footer"/>
+
 
 **BSc Computer Science · King's College London · Year Abroad @ University of Toronto**
 
@@ -59,17 +64,48 @@
 
 ## Certifications
 
-![Security+](https://img.shields.io/badge/-Security%2B%20%E2%9C%93-1D9E75?style=flat-square&logo=CompTIA&logoColor=white)
-![Google Cyber](https://img.shields.io/badge/-Google%20Cybersecurity%20%E2%9C%93-4285F4?style=flat-square&logo=Google&logoColor=white)
-![THM SOC L1](https://img.shields.io/badge/-TryHackMe%20SOC%20L1%20%E2%9C%93-212C42?style=flat-square&logo=TryHackMe&logoColor=white)
-![Network+](https://img.shields.io/badge/-Network%2B%20(in%20progress)-888780?style=flat-square&logo=CompTIA&logoColor=white)
-![AZ-500](https://img.shields.io/badge/-AZ--500%20(in%20progress)-888780?style=flat-square&logo=Microsoft&logoColor=white)
-![Splunk](https://img.shields.io/badge/-Splunk%20Core%20(in%20progress)-888780?style=flat-square&logo=Splunk&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-ED1C24?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/TryHackMe%20SOC%20Level%201-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+</p>
 
 ---
 
 ## Tools
 
-`Wazuh` `Splunk` `Elastic` `Wireshark` `Burp Suite` `Nmap` `sqlmap` `linPEAS` `hashcat` `CyberChef` `Shuffle SOAR` `TheHive` `MS Defender` `VirusTotal` `AbuseIPDB` `Git` `Linux` `Docker` `Python` `JavaScript`
+<p align="center">
+  <img src="https://img.shields.io/badge/Wazuh-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elastic-000000?style=for-the-badge&logo=elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/sqlmap-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/linPEAS-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/hashcat-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CyberChef-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Shuffle_SOAR-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TheHive-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microsoft_Defender-000000?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirusTotal-000000?style=for-the-badge&logo=virustotal&logoColor=white" />
+  <img src="https://img.shields.io/badge/AbuseIPDB-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+</p>
 
+---
+
+## Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rameez-03&theme=github-compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rameez-03&theme=github-dark&hide_border=true" />
+</p>
 
