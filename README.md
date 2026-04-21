@@ -1,83 +1,77 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&width=500&lines=whoami+%E2%86%92+Rameez+Ahmed;Cybersecurity+%7C+SOC+%7C+PQC;Tier+1+SOC+Analyst+%E2%86%92+in+progress" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rameez-ahmed-a0802a190/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&width=600&lines=RAMEEZ+AHMED;Cybersecurity+%7C+SOC+%7C+Post-Quantum+Crypto;Tier+1+SOC+Analyst+%E2%86%92+in+progress" alt="Typing" />
 
-<p align="center">BSc Computer Science · King's College London · Year Abroad @ University of Toronto</p>
+**BSc Computer Science · King's College London · Year Abroad @ University of Toronto**
 
-BSc Computer Science graduate specialising in cybersecurity and defensive security operations. Holds CompTIA Security+ with a First-Class dissertation implementing NIST FIPS 203 (ML-KEM), hands-on SOC automation experience, and a strong CTF background across web exploitation, privilege escalation, and network forensics. Actively pursuing Tier 1 SOC Analyst and junior security engineering roles.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rameez-ahmed-a0802a190/)
+[![Email](https://img.shields.io/badge/-rameez.r%40hotmail.co.uk-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:rameez.r@hotmail.co.uk)
+[![GitHub](https://img.shields.io/badge/-Rameez--03-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rameez-03)
+
+```bash
+$ cat objective.txt
+→ Targeting Tier 1 SOC Analyst & junior security engineering roles.
+  First-Class dissertation implementing NIST FIPS 203 (ML-KEM).
+  Strong CTF background · SOC automation · offensive security.
+```
+
+</div>
 
 ---
 
 ## Skills
 
-| Skill | Associated Project |
-|---|---|
-| SIEM log ingestion & alert triage | [SOC Automation Lab](https://github.com/Rameez-03/SOC-Automation-Lab) |
-| Security automation with Shuffle SOAR | [SOC Automation Lab](https://github.com/Rameez-03/SOC-Automation-Lab) |
-| Incident response & case management (TheHive) | [SOC Automation Lab](https://github.com/Rameez-03/SOC-Automation-Lab) |
-| Threat intel enrichment (VirusTotal, AbuseIPDB) | [SOC Automation Lab](https://github.com/Rameez-03/SOC-Automation-Lab) |
-| Web exploitation — SQLi, XSS, IDOR, broken auth | [CTF Write-Ups](https://github.com/Rameez-03/CTF-Writeups) |
-| Linux privilege escalation — SUID, sudo, cron, PATH | [CTF Write-Ups](https://github.com/Rameez-03/CTF-Writeups) |
-| Network forensics & PCAP analysis | [CTF Write-Ups](https://github.com/Rameez-03/CTF-Writeups) |
-| Post-quantum cryptography — NIST FIPS 203 (ML-KEM) | [Dissertation (First-Class)](https://github.com/Rameez-03/IP-PQC-KEM) |
-| Secure application development — OWASP, PCI DSS, GDPR | [Secure Bank App](https://github.com/Rameez-03/Secure-Bank-App) |
+| Category | Skill | Project |
+|---|---|---|
+| 🟢 SOC | SIEM log ingestion & alert triage | [SOC Automation Lab](https://github.com/Rameez-03/SOC-Automation-Lab) |
+| 🟢 SOC | SOAR playbook automation | [SOC Automation Lab](https://github.com/Rameez-03/SOC-Automation-Lab) |
+| 🟢 SOC | Incident response & TheHive case management | [SOC Automation Lab](https://github.com/Rameez-03/SOC-Automation-Lab) |
+| 🟢 SOC | Threat intel enrichment (VirusTotal, AbuseIPDB) | [SOC Automation Lab](https://github.com/Rameez-03/SOC-Automation-Lab) |
+| 🔵 CTF | Web exploitation — SQLi, XSS, IDOR, broken auth | [CTF Write-Ups](https://github.com/Rameez-03/CTF-Writeups) |
+| 🔵 CTF | Linux privilege escalation — SUID, sudo, cron, PATH | [CTF Write-Ups](https://github.com/Rameez-03/CTF-Writeups) |
+| 🔵 CTF | Network forensics & PCAP analysis | [CTF Write-Ups](https://github.com/Rameez-03/CTF-Writeups) |
+| 🟣 PQC | NIST FIPS 203 — ML-KEM implementation | [Dissertation (1st Class)](https://github.com/Rameez-03/IP-PQC-KEM) |
+| 🟠 SecDev | OWASP Top 10, PCI DSS, GDPR compliance | [Secure Bank App](https://github.com/Rameez-03/Secure-Bank-App) |
 
 ---
 
 ## Projects
 
-- ★ [**Post-Quantum Cryptography — First-Class Dissertation**](https://github.com/Rameez-03/IP-PQC-KEM) — NIST FIPS 203 · ML-KEM-512/768/1024 · AES-GCM · client-server key exchange
-- ◈ [**SOC Automation Lab**](https://github.com/Rameez-03/SOC-Automation-Lab) — Wazuh SIEM/XDR · Shuffle SOAR · TheHive · automated IR pipeline
-- ⚑ [**CTF Write-Ups**](https://github.com/Rameez-03/CTF-Writeups) — TryHackMe · HackTheBox · web exploitation · privesc · network forensics
-- ▣ [**Secure Bank Application**](https://github.com/Rameez-03/Secure-Bank-App) — OWASP Top 10 · bcrypt · CSRF tokens · PCI DSS & GDPR compliance
+### `01` — [Post-Quantum Cryptography — University Dissertation](https://github.com/Rameez-03/IP-PQC-KEM) `First-Class`
+> Implemented ML-KEM per NIST FIPS 203 (finalised Aug 2024). All three parameter sets (ML-KEM-512/768/1024) built in Python with AES-GCM session encryption across a client-server architecture. Security grounded in the Module Learning with Errors (MLWE) problem.
 
----
+`NIST FIPS 203` `ML-KEM` `Python` `AES-GCM` `MLWE`
 
-## Tools
+### `02` — [SOC Automation Lab](https://github.com/Rameez-03/SOC-Automation-Lab) `SOC`
+> Production-style SOC pipeline: Wazuh SIEM/XDR for detection, Shuffle SOAR for playbook automation, TheHive for case management. Detection rules for brute-force, C2 beaconing, and lateral movement with automated VirusTotal/AbuseIPDB enrichment.
 
-### Network
-<div>
-<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/-Nmap-004088?&style=for-the-badge&logoColor=white" />
-</div>
+`Wazuh` `Shuffle SOAR` `TheHive` `VirusTotal` `AbuseIPDB`
 
-### Web & Exploitation
-<div>
-<img src="https://img.shields.io/badge/-Burp_Suite-FF6633?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-sqlmap-CC0000?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CyberChef-4A90D9?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-hashcat-000000?&style=for-the-badge&logoColor=white" />
-</div>
+### `03` — [CTF Write-Ups](https://github.com/Rameez-03/CTF-Writeups) `CTF`
+> Documented challenges on TryHackMe & HackTheBox across web exploitation (Burp Suite, sqlmap), Linux privesc (linPEAS, GTFOBins), and network forensics (Wireshark PCAP analysis, C2 detection, credential recovery).
 
-### Endpoint
-<div>
-<img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logoColor=white" />
-</div>
+`Burp Suite` `sqlmap` `linPEAS` `Wireshark` `HackTheBox`
 
-### SIEM & Automation
-<div>
-<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-<img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-<img src="https://img.shields.io/badge/-Shuffle_SOAR-6A0DAD?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-TheHive-F5A800?&style=for-the-badge&logoColor=white" />
-</div>
+### `04` — [Secure Bank Application](https://github.com/Rameez-03/Secure-Bank-App) `SecDev`
+> JavaScript banking app built around OWASP Top 10 mitigations — bcrypt, CSRF tokens, secure sessions. Designed with PCI DSS and GDPR compliance in mind: cardholder data protection, access control, data minimisation, secure PII storage.
+
+`OWASP` `PCI DSS` `GDPR` `bcrypt` `JavaScript`
 
 ---
 
 ## Certifications
 
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google_Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-<img src="https://img.shields.io/badge/-TryHackMe_SOC_L1-212C42?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B_(In_Progress)-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-AZ--500_(In_Progress)-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/-Splunk_Core_(In_Progress)-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-</div>
+![Security+](https://img.shields.io/badge/-Security%2B-FF0000?style=flat-square&logo=CompTIA&logoColor=white)
+![Google Cyber](https://img.shields.io/badge/-Google_Cybersecurity-4285F4?style=flat-square&logo=Google&logoColor=white)
+![THM SOC L1](https://img.shields.io/badge/-TryHackMe_SOC_L1-212C42?style=flat-square&logo=TryHackMe&logoColor=white)
+![Network+](https://img.shields.io/badge/-Network%2B_(In_Progress)-grey?style=flat-square&logo=CompTIA&logoColor=white)
+![AZ-500](https://img.shields.io/badge/-AZ--500_(In_Progress)-grey?style=flat-square&logo=Microsoft&logoColor=white)
+![Splunk](https://img.shields.io/badge/-Splunk_Core_(In_Progress)-grey?style=flat-square&logo=Splunk&logoColor=white)
+
+---
+
+## Tools
+
+`Wazuh` `Splunk` `Elastic` `Wireshark` `Burp Suite` `Nmap` `sqlmap` `linPEAS` `hashcat` `CyberChef` `Shuffle SOAR` `TheHive` `MS Defender` `VirusTotal` `AbuseIPDB` `Git` `Linux` `Docker` `Python` `JavaScript`
 
 
