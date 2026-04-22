@@ -65,9 +65,15 @@
 ## Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-ED1C24?style=for-the-badge&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/TryHackMe%20SOC%20Level%201-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <a href="https://github.com/Rameez-03/Certifications/blob/main/Security%2B.png">
+    <img src="https://img.shields.io/badge/CompTIA%20Security%2B-ED1C24?style=for-the-badge&logo=comptia&logoColor=white" />
+  </a>
+  <a href="https://github.com/Rameez-03/Certifications/blob/main/GoogleCyber.png">
+    <img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
+  <a href="https://github.com/Rameez-03/Certifications/blob/main/SOC1.png">
+    <img src="https://img.shields.io/badge/TryHackMe%20SOC%20Level%201-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
 </p>
 
 ---
