@@ -34,7 +34,7 @@
 
 ## Projects
 
-### ◈ &nbsp;[Cryptographic Systems — University Dissertation](https://github.com/Rameez-03/IP-PQC-KEM) &nbsp;`First-Class`
+### ◈ &nbsp;[Post-Quantum Cryptographic Systems — University Dissertation](https://github.com/Rameez-03/IP-PQC-KEM) &nbsp;`First-Class`
 > Quantum-safe KEM aligned to NIST FIPS 203. Built in Python with AES-GCM session encryption across a client-server architecture, benchmarked across all security parameter sets.
 
 `NIST FIPS 203` &nbsp; `Python` &nbsp; `AES-GCM` &nbsp; `Key Exchange`
