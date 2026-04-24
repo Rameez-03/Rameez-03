@@ -55,7 +55,7 @@
 
 ---
 
-### ▣ &nbsp;[Secure Bank Application](https://github.com/Rameez-03/Secure-Bank-App) &nbsp;`SecDev`
+### ▣ &nbsp;[Secure Bank Application](https://github.com/Rameez-03/Secure-Bank) &nbsp;`SecDev`
 > OWASP Top 10 mitigations — bcrypt, CSRF tokens, secure sessions. Built with PCI DSS & GDPR compliance: cardholder data protection, data minimisation, secure PII storage.
 
 `OWASP` &nbsp; `PCI DSS` &nbsp; `GDPR` &nbsp; `bcrypt` &nbsp; `JavaScript`
