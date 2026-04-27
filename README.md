@@ -28,7 +28,7 @@
 | 🔵 CTF | Linux privilege escalation — SUID, sudo, cron, PATH | [CTF Write-Ups](https://github.com/Rameez-03/CTF-Writeups) |
 | 🔵 CTF | Network forensics & PCAP analysis | [CTF Write-Ups](https://github.com/Rameez-03/CTF-Writeups) |
 | 🟣 Research | Cryptographic standards implementation | [Dissertation (1st Class)](https://github.com/Rameez-03/IP-PQC-KEM) |
-| 🟠 SecDev | OWASP Top 10, PCI DSS, GDPR compliance | [Secure Bank App](https://github.com/Rameez-03/Secure-Bank-App) |
+| 🟠 SecDev | OWASP Top 10, PCI DSS, GDPR compliance | [Secure Bank App](https://github.com/Rameez-03/Secure-Bank) |
 
 ---
 
