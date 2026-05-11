@@ -20,10 +20,10 @@
 
 | Category | Skill | Project |
 |---|---|---|
-| 🟢 SOC | SIEM log ingestion & alert triage | [SOC Automation Lab](https://github.com/Rameez-03/SOC-Automation-Lab) |
-| 🟢 SOC | SOAR playbook automation | [SOC Automation Lab](https://github.com/Rameez-03/SOC-Automation-Lab) |
-| 🟢 SOC | Incident response & case management | [SOC Automation Lab](https://github.com/Rameez-03/SOC-Automation-Lab) |
-| 🟢 SOC | Threat intel enrichment (VirusTotal, AbuseIPDB) | [SOC Automation Lab](https://github.com/Rameez-03/SOC-Automation-Lab) |
+| 🟢 SOC | SIEM log ingestion & alert triage | [SOC Automation Lab](https://github.com/Rameez-03/SOC-Lab) |
+| 🟢 SOC | SOAR playbook automation | [SOC Automation Lab](https://github.com/Rameez-03/SOC-Lab) |
+| 🟢 SOC | Incident response & case management | [SOC Automation Lab](https://github.com/Rameez-03/SOC-Lab) |
+| 🟢 SOC | Threat intel enrichment (VirusTotal, AbuseIPDB) | [SOC Automation Lab](https://github.com/Rameez-03/SOC-Lab) |
 | 🔵 CTF | Web exploitation — SQLi, XSS, IDOR, broken auth | [CTF Write-Ups](https://github.com/Rameez-03/CTF-Writeups) |
 | 🔵 CTF | Linux privilege escalation — SUID, sudo, cron, PATH | [CTF Write-Ups](https://github.com/Rameez-03/CTF-Writeups) |
 | 🔵 CTF | Network forensics & PCAP analysis | [CTF Write-Ups](https://github.com/Rameez-03/CTF-Writeups) |
@@ -41,7 +41,7 @@
 
 ---
 
-### ◉ &nbsp;[SOC Automation Lab](https://github.com/Rameez-03/SOC-Automation-Lab) &nbsp;`SOC`
+### ◉ &nbsp;[SOC Automation Lab](https://github.com/Rameez-03/SOC-Lab) &nbsp;`SOC`
 > Wazuh SIEM/XDR + Shuffle SOAR + TheHive — full Tier 1 pipeline from alert ingestion to case closure. Detection rules for brute-force, C2 beaconing, lateral movement. Automated VirusTotal & AbuseIPDB enrichment.
 
 `Wazuh` &nbsp; `Shuffle SOAR` &nbsp; `TheHive` &nbsp; `VirusTotal` &nbsp; `AbuseIPDB`
