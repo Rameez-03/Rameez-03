@@ -51,7 +51,7 @@
 ### ⚑ &nbsp;[CTF Write-Ups](https://github.com/Rameez-03/CTF-Writeups) &nbsp;`CTF`
 > TryHackMe & HackTheBox — web exploitation (Burp Suite, sqlmap), Linux privesc (linPEAS, GTFOBins), network forensics (Wireshark PCAP, C2 detection, credential recovery).
 
-`Burp Suite` &nbsp; `sqlmap` &nbsp; `linPEAS` &nbsp; `Wireshark` &nbsp; `HackTheBox`
+`Burp Suite` &nbsp; `sqlmap` &nbsp; `linPEAS` &nbsp; `Wireshark`
 
 ---
 
