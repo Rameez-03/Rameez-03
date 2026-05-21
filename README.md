@@ -20,10 +20,10 @@
 
 | Category | Skill | Project |
 |---|---|---|
-| 🟢 SOC | SIEM log ingestion & alert triage | [SOC Automation Lab](https://github.com/Rameez-03/SOC-Lab) |
-| 🟢 SOC | SOAR playbook automation | [SOC Automation Lab](https://github.com/Rameez-03/SOC-Lab) |
-| 🟢 SOC | Incident response & case management | [SOC Automation Lab](https://github.com/Rameez-03/SOC-Lab) |
-| 🟢 SOC | Threat intel enrichment (VirusTotal, AbuseIPDB) | [SOC Automation Lab](https://github.com/Rameez-03/SOC-Lab) |
+| 🟢 SOC | SIEM log ingestion & alert triage | [SOC Lab](https://github.com/Rameez-03/SOC-Lab) |
+| 🟢 SOC | SOAR playbook automation | [SOC Lab](https://github.com/Rameez-03/SOC-Lab) |
+| 🟢 SOC | Incident response & case management | [SOC Lab](https://github.com/Rameez-03/SOC-Lab) |
+| 🟢 SOC | Threat intel enrichment (VirusTotal, AbuseIPDB) | [SOC Lab](https://github.com/Rameez-03/SOC-Lab) |
 | 🔵 CTF | Web exploitation — SQLi, XSS, IDOR, broken auth | [CTF Write-Ups](https://github.com/Rameez-03/CTF-Writeups) |
 | 🔵 CTF | Linux privilege escalation — SUID, sudo, cron, PATH | [CTF Write-Ups](https://github.com/Rameez-03/CTF-Writeups) |
 | 🔵 CTF | Network forensics & PCAP analysis | [CTF Write-Ups](https://github.com/Rameez-03/CTF-Writeups) |
