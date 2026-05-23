@@ -17,64 +17,72 @@
 ---
 
 ## Skills
-
 | Category | Skill | Project |
 |---|---|---|
-| 🟢 SOC | SIEM log ingestion & alert triage | [SOC Lab](https://github.com/Rameez-03/SOC-Lab) |
-| 🟢 SOC | SOAR playbook automation | [SOC Lab](https://github.com/Rameez-03/SOC-Lab) |
-| 🟢 SOC | Incident response & case management | [SOC Lab](https://github.com/Rameez-03/SOC-Lab) |
-| 🟢 SOC | Threat intel enrichment (VirusTotal, AbuseIPDB) | [SOC Lab](https://github.com/Rameez-03/SOC-Lab) |
+| 🟢 SOC | SIEM log ingestion, correlation and alert triage | [SOC and Systems Operation Lab](https://github.com/Rameez-03/SOC-Lab) |
+| 🟢 SOC | SOAR playbook automation and case management | [SOC and Systems Operation Lab](https://github.com/Rameez-03/SOC-Lab) |
+| 🟢 SOC | Active Directory domain administration and endpoint management | [SOC and Systems Operation Lab](https://github.com/Rameez-03/IT-Infrastructure) |
+| 🟢 SOC | Threat intel enrichment (VirusTotal, AbuseIPDB, Cortex) | [SOC and Systems Operation Lab](https://github.com/Rameez-03/SOC-Lab) |
+| 🤖 AI/Automation | LLM-powered autonomous alert triage and response | [SOC AI Agent](https://github.com/Rameez-03/SOC-AI-Agent) |
+| 🤖 AI/Automation | REST API integration and pluggable connector architecture | [SOC AI Agent](https://github.com/Rameez-03/SOC-AI-Agent) |
+| 🤖 AI/Automation | Docker containerisation and FastAPI service design | [SOC AI Agent](https://github.com/Rameez-03/SOC-AI-Agent) |
+| 🟡 Detection Eng | Detection rule authoring and MITRE ATT&CK mapping | [SIEM Rule Validator](https://github.com/Rameez-03/SIEM-Rule-Validator) |
+| 🟡 Detection Eng | Automated rule testing with synthetic log events | [SIEM Rule Validator](https://github.com/Rameez-03/SIEM-Rule-Validator) |
+| 🟡 Detection Eng | Sliding-window frequency correlation for brute-force and recon | [SIEM Rule Validator](https://github.com/Rameez-03/SIEM-Rule-Validator) |
 | 🔵 CTF | Web exploitation — SQLi, XSS, IDOR, broken auth | [CTF Write-Ups](https://github.com/Rameez-03/CTF-Writeups) |
 | 🔵 CTF | Linux privilege escalation — SUID, sudo, cron, PATH | [CTF Write-Ups](https://github.com/Rameez-03/CTF-Writeups) |
-| 🔵 CTF | Network forensics & PCAP analysis | [CTF Write-Ups](https://github.com/Rameez-03/CTF-Writeups) |
-| 🟣 Research | Cryptographic standards implementation | [Dissertation (1st Class)](https://github.com/Rameez-03/IP-PQC-KEM) |
-| 🟠 SecDev | OWASP Top 10, PCI DSS, GDPR compliance | [Secure Bank App](https://github.com/Rameez-03/Secure-Bank) |
+| 🔵 CTF | Network forensics and PCAP analysis | [CTF Write-Ups](https://github.com/Rameez-03/CTF-Writeups) |
+| 🟣 Research | Post-quantum cryptographic standards implementation | [Dissertation (1st Class)](https://github.com/Rameez-03/IP-PQC-KEM) |
+| 🟣 Research | Structured benchmarking and evidence-based technical reporting | [Dissertation (1st Class)](https://github.com/Rameez-03/IP-PQC-KEM) |
+| 🟠 SecDev | OWASP Top 10, PCI DSS, GDPR compliance and audit | [Secure Bank App](https://github.com/Rameez-03/Secure-Bank) |
+| 🟠 SecDev | DevSecOps pipeline — CI/CD, SAST, CVE scanning | [Secure Bank App](https://github.com/Rameez-03/Secure-Bank) |
+| 🟠 SecDev | Cloud deployment — AWS EC2, Docker, nginx, CloudWatch | [Secure Bank App](https://github.com/Rameez-03/Secure-Bank) |
 
 ---
 
 ## Projects
 
 ### ◈ &nbsp;[Post-Quantum Cryptographic Systems — University Dissertation](https://github.com/Rameez-03/IP-PQC-KEM) &nbsp;`First-Class`
-> Quantum-safe KEM aligned to NIST FIPS 203. Built in Python with AES-GCM session encryption across a client-server architecture, benchmarked across all security parameter sets.
+> Quantum-safe KEM aligned to NIST FIPS 203. Implemented in Python from mathematical first principles including NTT-based polynomial arithmetic, key generation, encapsulation, and decapsulation. Validated against all NIST KAT vectors across ML-KEM-512, ML-KEM-768, and ML-KEM-1024. Benchmarked across all security parameter sets with formal documented findings.
 
-`NIST FIPS 203` &nbsp; `Python` &nbsp; `AES-GCM` &nbsp; `Key Exchange`
+`NIST FIPS 203` &nbsp; `Python` &nbsp; `AES-GCM` &nbsp; `Key Exchange` &nbsp; `Benchmarking`
 
 ---
 
-### ◉ &nbsp;[SOC Automation Lab](https://github.com/Rameez-03/SOC-Lab) &nbsp;`SOC`
-> Wazuh SIEM/XDR + Shuffle SOAR + TheHive — full Tier 1 pipeline from alert ingestion to case closure. Detection rules for brute-force, C2 beaconing, lateral movement. Automated VirusTotal & AbuseIPDB enrichment.
+### ◉ &nbsp;[SOC and Systems Operation Lab](https://github.com/Rameez-03/SOC-Lab) &nbsp;`SOC | Infrastructure`
+> Full enterprise IT architecture built from scratch: Windows Active Directory domain controller with users, OUs, group policies, and multiple vulnerable endpoints replicating a realistic corporate network. Wazuh SIEM/XDR + Shuffle SOAR + TheHive deployed as the security operations layer — full Tier 1 pipeline from alert ingestion to case closure. Custom detection rules for Mimikatz (MITRE T1003), brute-force, C2 beaconing, and lateral movement. Automated VirusTotal and AbuseIPDB enrichment.
 
-`Wazuh` &nbsp; `Shuffle SOAR` &nbsp; `TheHive` &nbsp; `VirusTotal` &nbsp; `AbuseIPDB`
+`Wazuh` &nbsp; `Shuffle SOAR` &nbsp; `TheHive` &nbsp; `Active Directory` &nbsp; `VirusTotal` &nbsp; `AbuseIPDB` &nbsp; `Windows Server`
+
+Repos: [IT-Infrastructure](https://github.com/Rameez-03/IT-Infrastructure) &nbsp;|&nbsp; [SOC-Lab](https://github.com/Rameez-03/SOC-Lab)
+
+---
+
+### ⚙ &nbsp;[SOC AI Agent](https://github.com/Rameez-03/SOC-AI-Agent) &nbsp;`AI/Automation | SOC`
+> Fully autonomous AI-powered security analyst built in Python. Polls TheHive for open cases, triages true/false positives via a locally hosted LLM (Ollama/Qwen2.5), enriches IOCs through VirusTotal and Cortex APIs, executes MITRE ATT&CK mapped response playbooks, updates case records, and notifies analysts in real time. Pluggable connector architecture. Fully containerised with Docker Compose and FastAPI.
+
+`Python` &nbsp; `FastAPI` &nbsp; `Docker` &nbsp; `Ollama` &nbsp; `LLM` &nbsp; `MITRE ATT&CK` &nbsp; `REST API`
+
+---
+
+### 🛡 &nbsp;[SIEM Rule Validator](https://github.com/Rameez-03/SIEM-Rule-Validator) &nbsp;`Detection Engineering`
+> Standalone Python tool for testing Wazuh detection rules against synthetic log events without requiring a live SIEM instance. Implements a full detect, suppress, and correlate pipeline including sliding-window frequency analysis for brute-force and recon chain detection. GitHub Actions CI runs the full test suite on every rule change, providing an automated, auditable detection engineering workflow. Reduces rule iteration time from minutes to under one second.
+
+`Python` &nbsp; `Wazuh` &nbsp; `GitHub Actions` &nbsp; `CI/CD` &nbsp; `Detection Engineering` &nbsp; `MITRE ATT&CK`
 
 ---
 
 ### ⚑ &nbsp;[CTF Write-Ups](https://github.com/Rameez-03/CTF-Writeups) &nbsp;`CTF`
-> TryHackMe & HackTheBox — web exploitation (Burp Suite, sqlmap), Linux privesc (linPEAS, GTFOBins), network forensics (Wireshark PCAP, C2 detection, credential recovery).
+> TryHackMe and HackTheBox — web exploitation (Burp Suite, sqlmap), Linux privesc (linPEAS, GTFOBins), network forensics (Wireshark PCAP, C2 detection, credential recovery), DFIR investigations correlating Sysmon logs and PCAPs to reconstruct full attack timelines.
 
-`Burp Suite` &nbsp; `sqlmap` &nbsp; `linPEAS` &nbsp; `Wireshark`
+`Burp Suite` &nbsp; `sqlmap` &nbsp; `linPEAS` &nbsp; `Wireshark` &nbsp; `Sysmon` &nbsp; `DFIR`
 
 ---
 
 ### ▣ &nbsp;[Secure Bank Application](https://github.com/Rameez-03/Secure-Bank) &nbsp;`SecDev + GRC`
-> OWASP Top 10 mitigations — bcrypt, CSRF tokens, secure sessions. Built with PCI DSS & GDPR compliance: cardholder data protection, data minimisation, secure PII storage.
+> OWASP Top 10 mitigations — bcrypt, CSRF tokens, secure sessions. Full DevSecOps pipeline with GitHub Actions CI/CD, Jest automated testing (38 tests), Trivy CVE scanning, and Arko SAST reducing hackable score from 59% to 48%. Deployed to AWS EC2 with Docker Compose, nginx, and CloudWatch monitoring. Full GRC audit: STRIDE threat model, GDPR compliance (ROPA, DPIA, Breach Register), PCI DSS cardholder data protection.
 
-`OWASP` &nbsp; `GDPR` &nbsp; `bcrypt` &nbsp; `JavaScript`
-
----
-
-## Certifications
-
-<p align="center">
-  <a href="https://github.com/Rameez-03/Certifications/blob/main/Security%2B.png">
-    <img src="https://img.shields.io/badge/CompTIA%20Security%2B-ED1C24?style=for-the-badge&logo=comptia&logoColor=white" />
-  </a>
-  <a href="https://github.com/Rameez-03/Certifications/blob/main/GoogleCyber.png">
-    <img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  </a>
-  <a href="https://github.com/Rameez-03/Certifications/blob/main/SOC1.png">
-    <img src="https://img.shields.io/badge/TryHackMe%20SOC%20Level%201-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  </a>
-</p>
+`OWASP` &nbsp; `GDPR` &nbsp; `bcrypt` &nbsp; `Docker` &nbsp; `AWS EC2` &nbsp; `GitHub Actions` &nbsp; `STRIDE`
 
 ---
 
