@@ -25,12 +25,12 @@
 | 🤖 AI/Automation | REST API integration and pluggable connector architecture | [SOC AI Agent](https://github.com/Rameez-03/SOC-AI-Agent) |
 | 🟡 Detection Eng | Detection rule authoring and MITRE ATT&CK mapping | [SIEM Rule Validator](https://github.com/Rameez-03/SIEM-Rule-Validator) |
 | 🟡 Detection Eng | Automated rule testing with CI/CD audit trail | [SIEM Rule Validator](https://github.com/Rameez-03/SIEM-Rule-Validator) |
-| 🔵 CTF | Web exploitation — SQLi, XSS, IDOR, broken auth | [CTF Write-Ups](https://github.com/Rameez-03/CTF-Writeups) |
+| 🔵 CTF | Web exploitation - SQLi, XSS, IDOR, broken auth | [CTF Write-Ups](https://github.com/Rameez-03/CTF-Writeups) |
 | 🔵 CTF | Network forensics and PCAP analysis | [CTF Write-Ups](https://github.com/Rameez-03/CTF-Writeups) |
 | 🟣 Research | Post-quantum cryptographic standards implementation | [Dissertation (1st Class)](https://github.com/Rameez-03/IP-PQC-KEM) |
 | 🟣 Research | Structured benchmarking and evidence-based technical reporting | [Dissertation (1st Class)](https://github.com/Rameez-03/IP-PQC-KEM) |
 | 🟠 SecDev | OWASP Top 10, PCI DSS, GDPR compliance and audit | [Secure Bank App](https://github.com/Rameez-03/Secure-Bank) |
-| 🟠 SecDev | DevSecOps pipeline — CI/CD, SAST, CVE scanning, cloud deployment | [Secure Bank App](https://github.com/Rameez-03/Secure-Bank) |
+| 🟠 SecDev | DevSecOps pipeline - CI/CD, SAST, CVE scanning, cloud deployment | [Secure Bank App](https://github.com/Rameez-03/Secure-Bank) |
 
 ---
 
