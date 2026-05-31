@@ -20,7 +20,7 @@
 | Category | Skill | Project |
 |---|---|---|
 | 🟢 SOC | SIEM Log Ingestion, Correlation and Alert Triage | [SOC and Systems Operation Lab](https://github.com/Rameez-03/SOC-Lab) |
-| 🟢 SOC | Active Directory domain administration and endpoint management | [SOC and Systems Operation Lab](https://github.com/Rameez-03/IT-Infrastructure) |
+| 🟢 SOC | Active Directory Domain Administration and Endpoint Management | [SOC and Systems Operation Lab](https://github.com/Rameez-03/IT-Infrastructure) |
 | 🤖 AI/Automation | LLM-powered autonomous alert triage and response | [SOC AI Agent](https://github.com/Rameez-03/SOC-AI-Agent) |
 | 🤖 AI/Automation | REST API integration and pluggable connector architecture | [SOC AI Agent](https://github.com/Rameez-03/SOC-AI-Agent) |
 | 🟡 Detection Eng | Detection rule authoring and MITRE ATT&CK mapping | [SIEM Rule Validator](https://github.com/Rameez-03/SIEM-Rule-Validator) |
