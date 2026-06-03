@@ -23,7 +23,7 @@
 | 🟢 SOC | Active Directory Domain Administration and Endpoint Management | [SOC and Systems Operation Lab](https://github.com/Rameez-03/IT-Infrastructure) |
 | 🤖 AI/Automation | LLM-Powered Autonomous Alert Triage and Response | [SOC AI Agent](https://github.com/Rameez-03/SOC-AI-Agent) |
 | 🤖 AI/Automation | REST API Integration and Pluggable Connector Architecture | [SOC AI Agent](https://github.com/Rameez-03/SOC-AI-Agent) |
-| 🟡 Detection Eng | Detection rule authoring and MITRE ATT&CK mapping | [SIEM Rule Validator](https://github.com/Rameez-03/SIEM-Rule-Validator) |
+| 🟡 Detection Eng | Detection Rule Authoring and MITRE ATT&CK Mapping | [SIEM Rule Validator](https://github.com/Rameez-03/SIEM-Rule-Validator) |
 | 🟡 Detection Eng | Automated rule testing with CI/CD audit trail | [SIEM Rule Validator](https://github.com/Rameez-03/SIEM-Rule-Validator) |
 | 🔵 CTF | Web Exploitation - SQLi, XSS, IDOR, broken auth | [CTF Write-Ups](https://github.com/Rameez-03/CTF-Writeups) |
 | 🔵 CTF | Network Forensics and PCAP analysis | [CTF Write-Ups](https://github.com/Rameez-03/CTF-Writeups) |
