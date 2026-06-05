@@ -25,7 +25,7 @@
 | 🤖 AI/Automation | REST API Integration and Pluggable Connector Architecture | [SOC AI Agent](https://github.com/Rameez-03/SOC-AI-Agent) |
 | 🟡 Detection Eng | Detection Rule Authoring and MITRE ATT&CK Mapping | [SIEM Rule Validator](https://github.com/Rameez-03/SIEM-Rule-Validator) |
 | 🟡 Detection Eng | Automated Rule Testing with CI/CD Audit Trail | [SIEM Rule Validator](https://github.com/Rameez-03/SIEM-Rule-Validator) |
-| 🔵 CTF | Web Exploitation - SQLi, XSS, IDOR, broken auth | [CTF Write-Ups](https://github.com/Rameez-03/CTF-Writeups) |
+| 🔵 CTF | Web Exploitation - SQLi, XSS, IDOR, Broken Auth | [CTF Write-Ups](https://github.com/Rameez-03/CTF-Writeups) |
 | 🔵 CTF | Network Forensics and PCAP analysis | [CTF Write-Ups](https://github.com/Rameez-03/CTF-Writeups) |
 | 🟣 Research | Post-Quantum Cryptographic standards implementation | [Dissertation (1st Class)](https://github.com/Rameez-03/IP-PQC-KEM) |
 | 🟣 Research | Structured benchmarking and evidence-based technical reporting | [Dissertation (1st Class)](https://github.com/Rameez-03/IP-PQC-KEM) |
