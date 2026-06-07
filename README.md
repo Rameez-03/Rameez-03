@@ -27,7 +27,7 @@
 | 🟡 Detection Eng | Automated Rule Testing with CI/CD Audit Trail | [SIEM Rule Validator](https://github.com/Rameez-03/SIEM-Rule-Validator) |
 | 🔵 CTF | Web Exploitation - SQLi, XSS, IDOR, Broken Auth | [CTF Write-Ups](https://github.com/Rameez-03/CTF-Writeups) |
 | 🔵 CTF | Network Forensics and PCAP analysis | [CTF Write-Ups](https://github.com/Rameez-03/CTF-Writeups) |
-| 🟣 Research | Post-Quantum Cryptographic standards implementation | [Dissertation (1st Class)](https://github.com/Rameez-03/IP-PQC-KEM) |
+| 🟣 Research | Post-Quantum Cryptographic Standards Implementation | [Dissertation (1st Class)](https://github.com/Rameez-03/IP-PQC-KEM) |
 | 🟣 Research | Structured Benchmarking and Evidence-Based Technical Reporting | [Dissertation (1st Class)](https://github.com/Rameez-03/IP-PQC-KEM) |
 | 🟠 SecDev | OWASP Top 10, PCI DSS, GDPR Compliance and Audit | [Secure Bank App](https://github.com/Rameez-03/Secure-Bank) |
 | 🟠 SecDev | DevSecOps pipeline - CI/CD, SAST, CVE Scanning, Cloud Deployment | [Secure Bank App](https://github.com/Rameez-03/Secure-Bank) |
