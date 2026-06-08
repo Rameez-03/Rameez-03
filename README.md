@@ -90,7 +90,6 @@ Repos: [IT-Infrastructure](https://github.com/Rameez-03/IT-Infrastructure) &nbsp
   <img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/sqlmap-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/hashcat-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CyberChef-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Shuffle_SOAR-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/TheHive-000000?style=for-the-badge" />
