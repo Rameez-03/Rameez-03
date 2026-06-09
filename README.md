@@ -37,7 +37,7 @@
 ## Projects
 
 ### ◈ &nbsp;[Post-Quantum Cryptographic Systems — University Dissertation](https://github.com/Rameez-03/IP-PQC-KEM) &nbsp;`First-Class`
-> Quantum-safe KEM aligned to NIST FIPS 203. Implemented in Python from mathematical first principles including NTT-based polynomial arithmetic, key generation, encapsulation, and decapsulation. Validated against all NIST KAT vectors across ML-KEM-512, ML-KEM-768, and ML-KEM-1024. Benchmarked across all security parameter sets with formal documented findings.
+> Quantum-safe KEM aligned to NIST FIPS 203. Implemented in Python from Mathematical first principles including NTT-based Polynomial Arithmetic, Key Generation, Encapsulation, and Decapsulation. Validated against all NIST KAT vectors across ML-KEM-512, ML-KEM-768, and ML-KEM-1024. Benchmarked across all Security Parameter Sets with Formal Documented Findings.
 
 `NIST FIPS 203` &nbsp; `Python` &nbsp; `AES-GCM` &nbsp; `Key Exchange` &nbsp; `Benchmarking`
 
