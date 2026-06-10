@@ -44,7 +44,7 @@
 ---
 
 ### ◉ &nbsp;[SOC and Systems Operation Lab](https://github.com/Rameez-03/SOC-Lab) &nbsp;`SOC | Infrastructure`
-> Full enterprise IT architecture built from scratch: Windows Active Directory domain controller with users, OUs, group policies, and multiple vulnerable endpoints replicating a realistic corporate network. Wazuh SIEM/XDR + Shuffle SOAR + TheHive deployed as the security operations layer — full Tier 1 pipeline from alert ingestion to case closure. Custom detection rules for Mimikatz (MITRE T1003), brute-force, C2 beaconing, and lateral movement. Automated VirusTotal and AbuseIPDB enrichment.
+> Full Enterprise IT Architecture built from scratch: Windows Active Directory Domain Controller with users, OUs, Group Policies, and multiple Vulnerable Endpoints replicating a realistic corporate Network. Wazuh SIEM/XDR + Shuffle SOAR + TheHive deployed as the Security Operations Layer — full Tier 1 Pipeline from Alert Ingestion to Case Closure. Custom Detection Rules for Mimikatz (MITRE T1003), Brute-Force, C2 Beaconing, and Lateral Movement. Automated VirusTotal and AbuseIPDB Enrichment.
 
 `Wazuh` &nbsp; `Shuffle SOAR` &nbsp; `TheHive` &nbsp; `Active Directory` &nbsp; `VirusTotal` &nbsp; `AbuseIPDB` &nbsp; `Windows Server`
 
