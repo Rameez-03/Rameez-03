@@ -53,7 +53,7 @@ Repos: [IT-Infrastructure](https://github.com/Rameez-03/IT-Infrastructure) &nbsp
 ---
 
 ### ⚙ &nbsp;[SOC AI Agent](https://github.com/Rameez-03/SOC-AI-Agent) &nbsp;`AI/Automation | SOC`
-> Fully autonomous AI-powered security analyst built in Python. Polls TheHive for open cases, triages true/false positives via a locally hosted LLM (Ollama/Qwen2.5), enriches IOCs through VirusTotal and Cortex APIs, executes MITRE ATT&CK mapped response playbooks, updates case records, and notifies analysts in real time. Pluggable connector architecture. Fully containerised with Docker Compose and FastAPI.
+> Fully Autonomous AI-powered Security Analyst built in Python. Polls TheHive for open cases, Triages true/false positives via a locally hosted LLM (Ollama/Qwen2.5), Enriches IOCs through VirusTotal and Cortex APIs, Executes MITRE ATT&CK mapped response playbooks, Updates case records, and Notifies analysts in real time. Pluggable connector architecture. Fully containerised with Docker Compose and FastAPI.
 
 `Python` &nbsp; `FastAPI` &nbsp; `Docker` &nbsp; `Ollama` &nbsp; `LLM` &nbsp; `REST API`
 
