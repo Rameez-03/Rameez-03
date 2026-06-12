@@ -60,7 +60,7 @@ Repos: [IT-Infrastructure](https://github.com/Rameez-03/IT-Infrastructure) &nbsp
 ---
 
 ### 🛡 &nbsp;[SIEM Rule Validator](https://github.com/Rameez-03/SIEM-Rule-Validator) &nbsp;`Detection Engineering`
-> Standalone Python tool for testing Wazuh detection rules against synthetic log events without requiring a live SIEM instance. Implements a full detect, suppress, and correlate pipeline including sliding-window frequency analysis for brute-force and recon chain detection. GitHub Actions CI runs the full test suite on every rule change, providing an automated, auditable detection engineering workflow. Reduces rule iteration time from minutes to under one second.
+> Standalone Python tool for Testing Wazuh Detection Rules against Synthetic Log Events without requiring a live SIEM instance. Implements a full detect, suppress, and correlate pipeline including sliding-window frequency analysis for brute-force and recon chain detection. GitHub Actions CI runs the full test suite on every rule change, providing an automated, auditable detection engineering workflow. Reduces rule iteration time from minutes to under one second.
 
 `Python` &nbsp; `Wazuh` &nbsp; `GitHub Actions` &nbsp; `CI/CD` &nbsp; `Detection Engineering` &nbsp; `MITRE ATT&CK`
 
