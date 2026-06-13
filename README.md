@@ -9,33 +9,28 @@
 
 **BSc Computer Science · King's College London · Year Abroad @ University of Toronto**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rameez-ahmed-a0802a190/)
-[![Email](https://img.shields.io/badge/-rameez.r%40hotmail.co.uk-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:rameez.r@hotmail.co.uk)
-[![GitHub](https://img.shields.io/badge/-Rameez--03-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rameez-03)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rameez-ahmed-a0802a190/)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rameez.r@hotmail.co.uk)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rameez-03)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=vercel&logoColor=black)](https://rameez-03.github.io)
+
+</div>
 
 ---
 
-## Certifications
+## 🎓 Certifications
 
-<p align="center">
+<div align="center">
 
-  <a href="https://github.com/Rameez-03/Certifications/blob/main/Security%2B.png">
-    <img src="https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Rameez-03/Certifications/blob/main/Network%2B.png">
-    <img src="https://img.shields.io/badge/CompTIA-Network%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Rameez-03/Certifications/blob/main/GoogleCyber.png">
-    <img src="https://img.shields.io/badge/Google-Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Rameez-03/Certifications/blob/main/SOC1.png">
-    <img src="https://img.shields.io/badge/TryHackMe-SOC%20Level%201-1DB954?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  </a>
+[![Security+](https://img.shields.io/badge/CompTIA_Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://github.com/Rameez-03/Certifications/blob/main/Security%2B.png)
+[![Network+](https://img.shields.io/badge/CompTIA_Network%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://github.com/Rameez-03/Certifications/blob/main/Network%2B.png)
+[![Google](https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/Rameez-03/Certifications/blob/main/GoogleCyber.png)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe_SOC_L1-1DB954?style=for-the-badge&logo=tryhackme&logoColor=white)](https://github.com/Rameez-03/Certifications/blob/main/SOC1.png)
 
-</p>
+</div>
+
 
 ---
 
