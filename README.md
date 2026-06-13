@@ -32,7 +32,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/Rameez-03/Certifications/blob/main/SOC1.png">
-    <img src="https://img.shields.io/badge/TryHackMe-SOC%20Level%201-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
+    <img src="https://img.shields.io/badge/TryHackMe-SOC%20Level%201-1DB954?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
 
 </p>
