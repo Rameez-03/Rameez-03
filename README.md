@@ -20,20 +20,6 @@
 
 ---
 
-## 🎓 Certifications
-
-<div align="center">
-
-[![Security+](https://img.shields.io/badge/CompTIA_Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://github.com/Rameez-03/Certifications/blob/main/Security%2B.png)
-[![Network+](https://img.shields.io/badge/CompTIA_Network%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://github.com/Rameez-03/Certifications/blob/main/Network%2B.png)
-[![Google](https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/Rameez-03/Certifications/blob/main/GoogleCyber.png)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe_SOC_L1-1DB954?style=for-the-badge&logo=tryhackme&logoColor=white)](https://github.com/Rameez-03/Certifications/blob/main/SOC1.png)
-
-</div>
-
-
----
-
 ## Projects
 
 ### ◈ &nbsp;[Post-Quantum Cryptographic Systems — University Dissertation](https://github.com/Rameez-03/IP-PQC-KEM) &nbsp;`First-Class`
@@ -77,6 +63,19 @@ Repos: [IT-Infrastructure](https://github.com/Rameez-03/IT-Infrastructure) &nbsp
 > OWASP Top 10 mitigations — bcrypt, CSRF tokens, secure sessions. Full DevSecOps pipeline with GitHub Actions CI/CD, Jest automated testing (38 tests), Trivy CVE scanning, and Arko SAST reducing hackable score from 59% to 48%. Deployed to AWS EC2 with Docker Compose, nginx, and CloudWatch monitoring. Full GRC audit: STRIDE threat model, GDPR compliance (ROPA, DPIA, Breach Register), PCI DSS cardholder data protection.
 
 `OWASP` &nbsp; `GDPR` &nbsp; `bcrypt` &nbsp; `Docker` &nbsp; `AWS EC2` &nbsp; `GitHub Actions` &nbsp; `STRIDE`
+
+---
+
+## 🎓 Certifications
+
+<div align="center">
+
+[![Security+](https://img.shields.io/badge/CompTIA_Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://github.com/Rameez-03/Certifications/blob/main/Security%2B.png)
+[![Network+](https://img.shields.io/badge/CompTIA_Network%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://github.com/Rameez-03/Certifications/blob/main/Network%2B.png)
+[![Google](https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/Rameez-03/Certifications/blob/main/GoogleCyber.png)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe_SOC_L1-1DB954?style=for-the-badge&logo=tryhackme&logoColor=white)](https://github.com/Rameez-03/Certifications/blob/main/SOC1.png)
+
+</div>
 
 ---
 
