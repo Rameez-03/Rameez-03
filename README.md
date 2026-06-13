@@ -39,24 +39,6 @@
 
 ---
 
-## Skills
-| Category | Skill | Project |
-|---|---|---|
-| 🟢 SOC | SIEM Log Ingestion, Correlation and Alert Triage | [SOC and Systems Operation Lab](https://github.com/Rameez-03/SOC-Lab) |
-| 🟢 SOC | Active Directory Domain Administration and Endpoint Management | [SOC and Systems Operation Lab](https://github.com/Rameez-03/IT-Infrastructure) |
-| 🤖 AI/Automation | LLM-Powered Autonomous Alert Triage and Response | [SOC AI Agent](https://github.com/Rameez-03/SOC-AI-Agent) |
-| 🤖 AI/Automation | REST API Integration and Pluggable Connector Architecture | [SOC AI Agent](https://github.com/Rameez-03/SOC-AI-Agent) |
-| 🟡 Detection Eng | Detection Rule Authoring and MITRE ATT&CK Mapping | [SIEM Rule Validator](https://github.com/Rameez-03/SIEM-Rule-Validator) |
-| 🟡 Detection Eng | Automated Rule Testing with CI/CD Audit Trail | [SIEM Rule Validator](https://github.com/Rameez-03/SIEM-Rule-Validator) |
-| 🔵 CTF | Web Exploitation - SQLi, XSS, IDOR, Broken Auth | [CTF Write-Ups](https://github.com/Rameez-03/CTF-Writeups) |
-| 🔵 CTF | Network Forensics and PCAP analysis | [CTF Write-Ups](https://github.com/Rameez-03/CTF-Writeups) |
-| 🟣 Research | Post-Quantum Cryptographic Standards Implementation | [Dissertation (1st Class)](https://github.com/Rameez-03/IP-PQC-KEM) |
-| 🟣 Research | Structured Benchmarking and Evidence-Based Technical Reporting | [Dissertation (1st Class)](https://github.com/Rameez-03/IP-PQC-KEM) |
-| 🟠 SecDev | OWASP Top 10, PCI DSS, GDPR Compliance and Audit | [Secure Bank App](https://github.com/Rameez-03/Secure-Bank) |
-| 🟠 SecDev | DevSecOps pipeline - CI/CD, SAST, CVE Scanning, Cloud Deployment | [Secure Bank App](https://github.com/Rameez-03/Secure-Bank) |
-
----
-
 ## Projects
 
 ### ◈ &nbsp;[Post-Quantum Cryptographic Systems — University Dissertation](https://github.com/Rameez-03/IP-PQC-KEM) &nbsp;`First-Class`
