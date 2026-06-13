@@ -13,6 +13,29 @@
 [![Email](https://img.shields.io/badge/-rameez.r%40hotmail.co.uk-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:rameez.r@hotmail.co.uk)
 [![GitHub](https://img.shields.io/badge/-Rameez--03-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rameez-03)
 
+---
+
+## Certifications
+
+<p align="center">
+
+  <a href="https://github.com/Rameez-03/Certifications/blob/main/Security%2B.png">
+    <img src="https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Rameez-03/Certifications/blob/main/Network%2B.png">
+    <img src="https://img.shields.io/badge/CompTIA-Network%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Rameez-03/Certifications/blob/main/GoogleCyber.png">
+    <img src="https://img.shields.io/badge/Google-Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Rameez-03/Certifications/blob/main/SOC1.png">
+    <img src="https://img.shields.io/badge/TryHackMe-SOC%20Level%201-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
+  </a>
+
+</p>
 
 ---
 
