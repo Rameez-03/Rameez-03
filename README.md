@@ -6,10 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F4E8C,100:0B1F3A&height=2&section=footer"/>
 
-
 **BSc Computer Science · King's College London · Year Abroad @ University of Toronto**
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rameez-ahmed-a0802a190/)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rameez.r@hotmail.co.uk)
@@ -17,6 +14,41 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=vercel&logoColor=black)](https://rameez-03.github.io)
 
 </div>
+
+---
+
+```yaml
+┌──(rameez㉿kali)-[~]
+└─$ whoami
+Rameez Ahmed — Computer Science Graduate | Blue Team | Detection Engineering
+
+┌──(rameez㉿kali)-[~]
+└─$ cat profile.txt
+location : London, UK
+degree   : BSc Computer Science — King's College London (Upper 2:1)
+focus    : SOC Operations | Detection Engineering | Security Automation
+
+┌──(rameez㉿kali)-[~]
+└─$ cat stack.json
+{
+  "SOC"           : ["Wazuh SIEM/XDR", "Shuffle SOAR", "TheHive", "VirusTotal", "AbuseIPDB"],
+  "Detection"     : ["Rule Authoring", "MITRE ATT&CK", "CI/CD Pipelines", "Log Correlation"],
+  "AI_automation" : ["Python", "FastAPI", "Ollama LLM", "Docker", "REST APIs"],
+  "Offensive"     : ["Burp Suite", "sqlmap", "Wireshark", "Nmap", "linPEAS", "DFIR"],
+  "SecDev_GRC"    : ["OWASP Top 10", "GDPR", "STRIDE", "PCI DSS", "AWS EC2"]
+}
+
+┌──(rameez㉿kali)-[~]
+└─$ cat achievements.log
+[+] First-Class dissertation — NIST FIPS 203 post-quantum cryptography implemented from scratch
+[+] Autonomous AI SOC agent — LLM triage + MITRE ATT&CK response playbooks
+[+] Full enterprise SOC environment built and operated from scratch
+[+] CompTIA Security+ and Network+ certified
+
+┌──(rameez㉿kali)-[~]
+└─$ ./current_mission.sh
+> Building real security tools and infrastructure from the ground up
+```
 
 ---
 
