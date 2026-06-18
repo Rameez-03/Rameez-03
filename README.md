@@ -92,7 +92,7 @@ Repos: [IT-Infrastructure](https://github.com/Rameez-03/IT-Infrastructure) &nbsp
 ---
 
 ### ▣ &nbsp;[Secure Bank Application](https://github.com/Rameez-03/Secure-Bank) &nbsp;`SecDev + GRC`
-> OWASP Top 10 mitigations — bcrypt, CSRF tokens, secure sessions. Full DevSecOps pipeline with GitHub Actions CI/CD, Jest automated testing (38 tests), Trivy CVE scanning, and Arko SAST reducing hackable score from 59% to 48%. Deployed to AWS EC2 with Docker Compose, nginx, and CloudWatch monitoring. Full GRC audit: STRIDE threat model, GDPR compliance (ROPA, DPIA, Breach Register), PCI DSS cardholder data protection.
+> OWASP Top 10 mitigations — Bcrypt, CSRF tokens, secure sessions. Full DevSecOps pipeline with GitHub Actions CI/CD, Jest automated testing (38 tests), Trivy CVE scanning, and Arko SAST reducing hackable score from 59% to 48%. Deployed to AWS EC2 with Docker Compose, nginx, and CloudWatch monitoring. Full GRC audit: STRIDE threat model, GDPR compliance (ROPA, DPIA, Breach Register), PCI DSS cardholder data protection.
 
 `OWASP` &nbsp; `GDPR` &nbsp; `bcrypt` &nbsp; `Docker` &nbsp; `AWS EC2` &nbsp; `GitHub Actions` &nbsp; `STRIDE`
 
