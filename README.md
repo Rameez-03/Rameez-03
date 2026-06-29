@@ -77,6 +77,13 @@ Repos: [IT-Infrastructure](https://github.com/Rameez-03/IT-Infrastructure) &nbsp
 
 ---
 
+### ⚖ &nbsp;[Forensic E-Discovery Simulation Pipeline](https://github.com/Rameez-03/Forensic-eDiscovery-Pipeline) &nbsp;`Digital Forensics | eDiscovery`
+> Full eDiscovery and digital forensics investigation pipeline built against the real Enron email corpus (10,000+ messages), structured around the EDRM framework used by platforms like Relativity and Nuix. Implements forensic ingestion with MD5 hashing and automated chain of custody logging, plus exact and near duplicate detection using fuzzy text matching and union find grouping. Surfaced genuine metadata quality issues directly from the raw corpus during validation, including a Message-ID export artefact that defeated hash based deduplication entirely. Threading, privilege detection, and production export in active development.
+
+`Python` &nbsp; `SQLite` &nbsp; `RFC 822 / MIME` &nbsp; `rapidfuzz` &nbsp; `EDRM` &nbsp; `Chain of Custody`
+
+---
+
 ### 🛡 &nbsp;[SIEM Rule Validator](https://github.com/Rameez-03/SIEM-Rule-Validator) &nbsp;`Detection Engineering`
 > Standalone Python tool for Testing Wazuh Detection Rules against Synthetic Log Events without requiring a live SIEM instance. Implements a full detect, suppress, and correlate pipeline including sliding-window frequency analysis for brute-force and recon chain detection. GitHub Actions CI runs the full test suite on every rule change, providing an automated, auditable detection engineering workflow. Reduces rule iteration time from minutes to under one second.
 
