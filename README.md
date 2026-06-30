@@ -84,6 +84,13 @@ Repos: [IT-Infrastructure](https://github.com/Rameez-03/IT-Infrastructure) &nbsp
 
 ---
 
+### ☎ &nbsp;[Telematics Technical Support Simulator](https://github.com/Rameez-03/Technical-Support-Simulator) &nbsp;`Technical Support | Automation`
+> End-to-end 2nd-line Technical Support pipeline wired against the live Freshdesk REST API. Automates full Ticket Lifecycle Management (Triage, Investigation, Resolution, and 3rd-Line Escalation) across four realistic Telematics Support scenarios, including a Post-Release Verification Testing sign-off workflow. Self-updating Known Errors Knowledge Base matches root causes automatically on resolution and logs new findings for reuse. SLA Tracking with automated JSON reporting on time-to-resolution and breach status. Validated through both an Automated Python Pipeline and a fully Manual Analyst Walkthrough, documented end-to-end with screenshots across all four scenarios.
+
+`Freshdesk API` &nbsp; `Python` &nbsp; `REST API` &nbsp; `ITSM` &nbsp; `SLA Management` &nbsp; `Knowledge Base`
+
+---
+
 ### 🛡 &nbsp;[SIEM Rule Validator](https://github.com/Rameez-03/SIEM-Rule-Validator) &nbsp;`Detection Engineering`
 > Standalone Python tool for Testing Wazuh Detection Rules against Synthetic Log Events without requiring a live SIEM instance. Implements a full detect, suppress, and correlate pipeline including sliding-window frequency analysis for brute-force and recon chain detection. GitHub Actions CI runs the full test suite on every rule change, providing an automated, auditable detection engineering workflow. Reduces rule iteration time from minutes to under one second.
 
